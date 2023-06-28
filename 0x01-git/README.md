@@ -1,1 +1,1 @@
-My first directory on alx
+My first directory at alx
